@@ -19,4 +19,4 @@ Creating and minting an NFT using tools like HardHat for smart contract, OpenZep
 
 8) Exposed the Metadata created earlier to a publicily accessable URL using ngrok
 
-9) Deployed, viewed, and the minted our NFT 
+9) Deployed, viewed, and the minted my NFT 
