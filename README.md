@@ -1,2 +1,2 @@
 # NFT
-Created my own NFT using tools like HardHat, OpenZeppelin, NodeJS, and JavaScript
+Created an NFT using tools like HardHat for smart contract, OpenZeppelin for security, NodeJS, and JavaScript
